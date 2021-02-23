@@ -1,0 +1,11 @@
+.iconButton {
+  /* font-size: 24px; */
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.iconButton:hover {
+  color: #007bff;
+  background-color: lightblue;
+}
